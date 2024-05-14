@@ -1,0 +1,17 @@
+Catergory,Model,Feature,Importance
+Numeric,L1,wt_loss,100
+Numeric,L1,AUC_6,15.46912
+Numeric,L1,temp_5,9.22716
+Factor,L1,RBS_A,0.52646
+Factor,L1,RBS_H,0.26948
+Factor,L1,RBS_D,0
+Numeric,M1,AUC_6,100
+Numeric,M1,temp_5,71.621
+Factor,M1,RBS_A,9.203
+Factor,M1,RBS_H,2.936
+Factor,M1,RBS_D,1.43
+Numeric,T1,AUC_6,100
+Numeric,T1,slope13,23.4138
+Factor,T1,RBS_D,9.0355
+Factor,T1,RBS_H,6.6642
+Factor,T1,RBS_A,2.1872
