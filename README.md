@@ -1,6 +1,6 @@
 ## Overview
 
-R code used for the machine learning portion of: "Machine learning approaches for influenza A risk assessment: identifying predictive correlates using ferret model in vivo data".
+R code used for the machine learning portion of: "Machine learning approaches for influenza A risk assessment: identifying predictive correlates using ferret model in vivo data". Manuscript under review at Communications Biology.
 
 This project also includes CSV files for summary data & metrics used to create figures from the manuscript in the "inputs" directory. 
 
@@ -14,6 +14,10 @@ Kieran TJ, Sun X, Maines TR, Beauchemin CAA, Belser JA. 2024. Exploring associat
 ## Note
 R script uses predicted sialic acid binding preference (RBS) and predicted polymerase activity (PBS) markers (based on molecular sequence), along with selected HA and PB2 gene markers, that are not included in the CSV file from Sci Data, but may be cross-referenced as reported in Kieran et al (PMID 38240592). 
 
+## Manuscript Abstract
+In vivo assessments of influenza A virus (IAV) pathogenicity and transmissibility in ferrets represent a crucial component of many pandemic risk assessment rubrics, but few systematic efforts to identify which data from in vivo experimentation are most useful for predicting pathogenesis and transmission outcomes have been conducted. To this aim, we aggregated viral and molecular data from 125 contemporary IAV (H1, H2, H3, H5, H7, and H9 subtypes) evaluated in ferrets under a consistent protocol. Three overarching predictive classification outcomes (lethality, morbidity, transmissibility) were constructed using machine learning (ML) techniques, employing datasets emphasizing virological and clinical parameters from inoculated ferrets, limited to viral sequence-based information, or combining both data types. Among 11 different ML algorithms tested and assessed, gradient boosting machines and random forest algorithms yielded the highest performance, with models for lethality and transmission consistently better performing than models predicting morbidity. Comparisons of feature selection among models was performed, and highest performing models were validated with results from external risk assessment studies. Our findings show that ML algorithms can be used to summarize complex in vivo experimental work into succinct summaries that inform and enhance risk assessment criteria for pandemic preparedness that take in vivo data into account. 
+
+##
 ##
 ##
   
