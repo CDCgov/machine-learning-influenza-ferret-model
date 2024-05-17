@@ -6,7 +6,7 @@ This project also includes CSV files for summary data & metrics used to create f
 
 Study makes use of previously published data:
 ## References and Resources
-Kieran TJ, Sun X, Creager HM, Tumpey TM, Maines TR, Belser JA. An aggregated dataset of serial morbidity and titer measurements from influenza A virus-infected ferrets. Accepted Sci Data.
+Kieran, T.J., Sun, X., Creager, H.M. et al. An aggregated dataset of serial morbidity and titer measurements from influenza A virus-infected ferrets. Sci Data 11, 510 (2024). https://doi.org/10.1038/s41597-024-03256-6
 
 Kieran TJ, Sun X, Maines TR, Beauchemin CAA, Belser JA. 2024. Exploring associations between viral titer measurements and disease outcomes in ferrets inoculated with 125 contemporary influenza A viruses. J Virol 98:e01661-23. (PMID 38240592)
 ([https://doi.org/10.1128/jvi.01661-23](https://doi.org/10.1128/jvi.01661-23))
