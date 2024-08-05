@@ -1,11 +1,15 @@
 ## Overview
 
-R code used for the machine learning portion of: "Machine learning approaches for influenza A risk assessment: identifying predictive correlates using ferret model in vivo data". Manuscript under review at Communications Biology.
+R code used for the machine learning portion of: 
+
+Kieran, T.J., Sun, X., Maines, T.R. et al. Machine learning approaches for influenza A virus risk assessment identifies predictive correlates using ferret model in vivo data. Commun Biol 7, 927 (2024). https://doi.org/10.1038/s42003-024-06629-0
 
 This project also includes CSV files for summary data & metrics used to create figures from the manuscript in the "inputs" directory. 
 
 Study makes use of previously published data:
 ## References and Resources
+Kieran, T.J., Sun, X., Maines, T.R. et al. Machine learning approaches for influenza A virus risk assessment identifies predictive correlates using ferret model in vivo data. Commun Biol 7, 927 (2024). https://doi.org/10.1038/s42003-024-06629-0
+
 Kieran, T.J., Sun, X., Creager, H.M. et al. An aggregated dataset of serial morbidity and titer measurements from influenza A virus-infected ferrets. Sci Data 11, 510 (2024). https://doi.org/10.1038/s41597-024-03256-6
 
 Kieran TJ, Sun X, Maines TR, Beauchemin CAA, Belser JA. 2024. Exploring associations between viral titer measurements and disease outcomes in ferrets inoculated with 125 contemporary influenza A viruses. J Virol 98:e01661-23. (PMID 38240592)
