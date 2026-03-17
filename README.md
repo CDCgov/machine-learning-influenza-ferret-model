@@ -11,8 +11,11 @@ Study makes use of previously published data:
 Kieran, T.J., Sun, X., Creager, H.M. et al. An aggregated dataset of serial morbidity and titer measurements from influenza A virus-infected ferrets. Sci Data 11, 510 (2024). https://doi.org/10.1038/s41597-024-03256-6
 
 Project contact: 
+
 Troy J. Kieran
+
 NCIRD/Influenza Division
+
 tkieran@cdc.gov
 
 ## Data and Code Usage
