@@ -23,7 +23,7 @@ Data used for input can be partially found in the 'inputs' directory, and the bu
 
 https://data.cdc.gov/National-Center-for-Immunization-and-Respiratory-D/An-aggregated-dataset-of-serially-collected-influe/cr56-k9wj/about_data
 
-The DSU_working_forGithub.R script is the sole code file for recreating the analyses used in this prject/manuscript. Data is public open access with no retrcitions on data reusability. 
+The DSU_working_forGithub.R script is the sole code file for recreating the analyses used in this project/manuscript. Data is public open access with no retrcitions on data reusability. 
 
 For further information about the data collection, usage, and to attribute proper credit and citation, see the References and Resources section below. 
 
